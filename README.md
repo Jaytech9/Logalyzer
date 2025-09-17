@@ -59,14 +59,6 @@ It is perfect for:
 
 ---
 
-
-**Interactive Querying of Log Data**
-http://googleusercontent.com/image_generation_content/1
-
-
-
----
-
 ## 🛠️ Technology Stack
 
 This project is built using a modern, robust, and entirely client-side web stack, ensuring maximum simplicity, security, and portability.
