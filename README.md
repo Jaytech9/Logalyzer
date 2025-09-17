@@ -59,14 +59,6 @@ It is perfect for:
 
 ---
 
-## 📸 Screenshots
-
-A picture is worth a thousand lines of log data! Here's a glimpse of the Log Analysis Tool in action:
-
-**Main Analysis Dashboard**
-http://googleusercontent.com/image_generation_content/0
-
-
 
 **Interactive Querying of Log Data**
 http://googleusercontent.com/image_generation_content/1
